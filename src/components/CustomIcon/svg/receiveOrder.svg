@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>收货_选中@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="收货_选中" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-17" transform="translate(2.000000, 5.000000)">
+            <path d="M2,15.6172779 L2,36 L42,36 L42,15.6172779 L32.7093466,2 L11.2906534,2 L2,15.6172779 Z" id="Combined-Shape" stroke="#FF6050" stroke-width="4"></path>
+            <rect id="Rectangle-10" fill="#FF6050" x="0" y="15" width="44" height="4"></rect>
+            <rect id="Rectangle-10" fill="#FF6050" x="15" y="23" width="14" height="4"></rect>
+        </g>
+    </g>
+</svg>

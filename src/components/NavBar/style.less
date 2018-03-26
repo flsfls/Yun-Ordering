@@ -1,0 +1,30 @@
+
+@import '../../commonCss/mixin';
+.nav_bar{
+  position: fixed;
+  width:100%;
+  top:0;
+  &:before {
+    .bottom-line(#E8E8E8)
+  }
+  .left_bar_back {
+    width: 2rem;
+    height: .88rem;
+    line-height: 1rem;
+  }
+  .right_bar {
+    height:100%;
+    &_text {
+      font-size: .26rem;
+      color: #999999;
+      margin-left: .09rem;
+      height:100%;
+      line-height: .88rem;
+    }
+  }
+  .my_search_bar {
+    width:100%;
+    text-align: right;
+    line-height: .88rem;
+  }
+}

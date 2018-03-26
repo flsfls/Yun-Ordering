@@ -1,0 +1,83 @@
+.order_confirm {
+  z-index: 3;
+  //中间主体部分
+  .orderConfirm_container{
+    padding-top: .88rem;
+    height:1.81rem;
+  }
+  .orderConfirm_address{
+    position: relative;
+    padding:.16rem .3rem .38rem .33rem;
+  }
+  .address_info{
+    width:5.77rem;
+    font-size: .32rem;;
+    color: #303030;
+    .name {
+      margin-right:.2rem;
+    }
+    .address {
+       margin-top:.2rem;
+       font-size: .28rem;
+       color: #5B5B5B;
+    }
+  }
+  .line {
+    position: absolute;
+    bottom: .15rem;
+    left:0;
+    width:100%;
+    height:.06rem;
+    background:url('../assets/line.png');
+  }
+  .orderConfirm_inner {
+    .list_item {
+      width:100%;
+      height:100%;
+      }
+
+    >div,>a{
+      height:1rem;
+      background:#fff;
+      margin-bottom:.2rem;
+      font-size: .32rem;
+      color: #353535;
+      padding:0 .3rem;
+      >div {
+        height:100%;
+      }
+      input {
+        height:.45rem;
+        text-align: right;
+      }
+      input::-webkit-input-placeholder {
+        font-size: .32rem;
+        color: #999999;
+      }
+    }
+  }
+  .confirm_button {
+    height:1.12rem;
+    background: #FFFFFF;
+    box-shadow: 0 0 1px 0 rgba(51,51,51,0.35);
+    .title {
+      margin-left:.2rem;
+      margin-right:.2rem;
+      font-size: .28rem;
+      color: #666666;
+    }
+    .money {
+      font-size: .44rem;
+      color: #FF6050;
+    }
+    .confirm {
+      width:2.31rem;
+      height:100%;
+      text-align: center;
+      line-height: 1.1rem;
+      background: #FF6050;
+      font-size: .36rem;
+      color: #FFFFFF;
+    }
+  }
+}

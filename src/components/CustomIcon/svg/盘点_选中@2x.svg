@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>盘点_选中@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="供应链h5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="盘点_选中" fill="#FF6050">
+            <g id="收银" transform="translate(3.000000, 3.000000)">
+                <path d="M12,4 C7.581722,4 4,7.581722 4,12 L4,30 C4,34.418278 7.581722,38 12,38 L30,38 C34.418278,38 38,34.418278 38,30 L38,12 C38,7.581722 34.418278,4 30,4 L12,4 Z M12,0 L30,0 C36.627417,-1.21743675e-15 42,5.372583 42,12 L42,30 C42,36.627417 36.627417,42 30,42 L12,42 C5.372583,42 8.11624501e-16,36.627417 0,30 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="Rectangle-11" fill-rule="nonzero"></path>
+                <rect id="Rectangle-12" x="14" y="18" width="14" height="4"></rect>
+                <rect id="Rectangle-12-Copy-3" transform="translate(18.000000, 15.000000) rotate(60.000000) translate(-18.000000, -15.000000) " x="13" y="13" width="10" height="4"></rect>
+                <rect id="Rectangle-12-Copy-4" transform="translate(24.000000, 15.000000) scale(-1, 1) rotate(60.000000) translate(-24.000000, -15.000000) " x="19" y="13" width="10" height="4"></rect>
+                <rect id="Rectangle-12-Copy" x="13" y="24" width="16" height="4"></rect>
+                <rect id="Rectangle-12-Copy-2" x="19" y="21" width="4" height="12"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,45 @@
+.c_order_list {
+  padding: .3rem;
+  height:2.5rem;
+  margin-top:.2rem;
+  background:#fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  .first{
+    >span {
+      &:nth-of-type(1) {
+        font-size: .4rem;
+      }
+      &:nth-of-type(2) {
+        font-size: .28rem;
+        color: #FF6050;
+      }
+    }
+  }
+  .second {
+    margin-top: .1rem;
+    >span {
+      font-size: .32rem;
+    }
+  }
+  .third {
+    margin-top:.22rem;
+
+    .confirm {
+        border: 1px solid #FF6050;
+        border-radius: 6px;
+        display: inline-block;
+        width:1.8rem;
+        height:.64rem;
+        color: #FF6050;
+        text-align: center;
+        line-height: .63rem;
+    }
+    .fdPurchaseTotAmt {
+      font-size: .4rem;
+      flex: 1;
+      text-align: right;
+    }
+  }
+}

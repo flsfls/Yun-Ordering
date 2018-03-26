@@ -1,0 +1,53 @@
+@import '../../../../commonCss/mixin';
+.my {
+  .my_info {
+    padding: .4rem 0 .2rem .3rem;
+    font-size: .32rem;
+    background:#fff;
+    margin-bottom:.2rem;
+     img {
+       width:1.2rem;
+       margin-right: .3rem;
+       height:1.2rem;
+       border-radius: 50%;
+     }
+  }
+  .info_list {
+    background:#fff;
+    .title {
+      padding-left:.31rem;
+      >span {
+        display: block;
+        padding: .17rem 0;
+        position: relative;
+        font-size: .32rem;
+        &:before {
+          .bottom-line(#E5E5E5);
+        }
+      }
+    }
+    .list_item {
+      margin-bottom:.2rem;
+      font-size: .28rem;
+      color: #333333;
+      display: flex;
+      flex-wrap: wrap;
+      >li {
+        height:1.87rem;
+        width:25%;
+      }
+      img {
+        width: .6rem;
+        height:.6rem;
+        margin-bottom: .16rem;
+      }
+      .img {
+        width:.72rem;
+        height:.72rem;
+        background: #EFEFF4;
+        border-radius: 100px;
+        margin-bottom:.1rem;
+      }
+    }
+  }
+}

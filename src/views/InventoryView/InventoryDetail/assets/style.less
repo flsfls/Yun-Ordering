@@ -1,0 +1,35 @@
+@import '../../../../commonCss/mixin.less';
+.inventory_detail {
+  z-index: 1;
+  .id_content {
+    padding-top:.88rem;
+    >div {
+      margin-bottom: .2rem;
+    }
+  }
+  .id_inventory {
+    padding-left:.3rem;
+    background:#fff;
+    font-size: .32rem;
+    >div {
+      height: 1rem;
+      padding-right: .3rem;
+      position: relative;
+      &:before {
+        .bottom-line(#DBDCDE)
+      }
+    }
+    .id_title {
+      margin-left:.2rem;
+    }
+    .id_button {
+      border-radius: 2px;
+      width:1.4rem;
+      text-align: center;
+      height:.58rem;
+      background:#FF6050;
+      color: #fff;
+      font-size: .26rem;
+    }
+  }
+}

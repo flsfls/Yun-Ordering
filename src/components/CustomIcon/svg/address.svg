@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="48px" viewBox="0 0 30 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>地址@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M225,222 C216.72,222 210,229.167791 210,236.9872 C210,250.498017 221.780377,260 225,260 C228.219623,260 240,249.985183 240,236.9872 C240,229.167791 233.28,222 225,222 Z M225,244.469565 C220.483636,244.469565 216.818182,240.91673 216.818182,236.53913 C216.818182,232.16153 220.483636,228.608696 225,228.608696 C229.516364,228.608696 233.181818,232.16153 233.181818,236.53913 C233.181818,240.91673 229.516364,244.469565 225,244.469565 Z M225,270 C217.268014,270 211,268.656854 211,267 C211,265.343146 217.268014,264 225,264 C232.731986,264 239,265.343146 239,267 C239,268.656854 232.731986,270 225,270 Z" id="path-1"></path>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-210.000000, -222.000000)">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#DBDCDE" xlink:href="#path-1"></use>
+    </g>
+</svg>

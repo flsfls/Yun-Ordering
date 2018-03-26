@@ -1,0 +1,61 @@
+@import '../../../../commonCss/mixin.less';
+
+
+
+.shop_list {
+  z-index: 4;
+  .list_container {
+    .list_item {
+      margin-top: .2rem;
+      width: 7.10rem;
+      margin: .2rem auto 0;
+      background: #FFFFFF;
+      box-shadow: 0 2px 8px 0 rgba(0,0,0,0.11);
+      border-radius: 8px;
+    }
+    .item_header {
+      font-size: .28rem;
+      color: #333333;
+      height:.88rem;
+      padding:.3rem;
+      position: relative;
+      .icon {
+        width:.35rem;
+        height:.35rem;
+      }
+      span {
+        margin-left:.17rem;
+      }
+      &:before{
+        .bottom-line(#DBDCDE);
+      }
+    }
+    .item_body {
+      padding: .3rem;
+      position: relative;
+      &:before{
+        .bottom-line(#DBDCDE);
+      }
+      .item_inner {
+        width:5.5rem;
+      }
+      img {
+        width:1.2rem;
+        height:1.2rem;
+        margin-right:.2rem;
+      }
+      .body_content {
+        width:5.3rem;
+        font-size: .32rem;
+        color: #333333;
+        letter-spacing: 0;
+      }
+      .body_count {
+        font-size: .32rem;
+        color: #646464;
+        letter-spacing: 0;
+        float: right;
+      }
+    }
+  }
+}

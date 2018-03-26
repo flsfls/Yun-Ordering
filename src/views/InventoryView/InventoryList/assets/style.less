@@ -1,0 +1,88 @@
+@import '../../../../commonCss/mixin.less';
+
+.purchaseOrder {
+  z-index: 100;
+  padding-top:.88rem;
+  .title {
+    height:.88rem;
+    line-height: .88rem;
+    background: #F5F5F5;
+    padding-left: .31rem;
+    font-size: .34rem;
+  }
+  .content {
+    padding-left:.3rem;
+  }
+  .list_item_inner {
+    padding:.29rem .3rem .27rem 0;
+    font-size: .32rem;
+    color: #999999;
+    position: relative;
+    &:before{
+      .bottom-line(rgb(196, 202, 212))
+    }
+    >span {
+      &:nth-of-type(1) {
+        color: #353535;
+      }
+    }
+  }
+  .portStatus {
+    font-size: .32rem;
+    color:  #353535;
+    padding:.28rem 0;
+  }
+  .status {
+    display: flex;
+    flex-wrap: wrap;
+    >li {
+      background: #EFEFEF;
+      border-radius: 6px;
+      margin-right: .3rem;
+      width:1.6rem;
+      margin-bottom:.3rem;
+      height:.58rem;
+      font-size: .28rem;
+      color: #666666;
+      text-align: center;
+      line-height: .58rem;
+    }
+    .active {
+      background: rgba(255,96,80,0.20);
+      border: 1px solid #FF6050;
+      border-radius: 6px;
+      color: #FF6050;
+    }
+  }
+  .button_box {
+    width:100%;
+    position: absolute;
+    bottom:0;
+    height: 1.10rem;
+    right:0;
+    font-size: .36rem;
+    >button {
+      display: inline-block;
+      height:100%;
+      border:0;
+      width:50%;
+      flex: 1;
+      position: relative;
+      &:nth-of-type(1) {
+        &:before {
+          .top-line(rgb(196, 202, 212));
+        }
+        &:after {
+          .right-line(rgb(196, 202, 212));
+        }
+      }
+      &:nth-of-type(2) {
+        background: #FF6050;
+        color:#fff;
+      }
+    }
+  }
+}
+
+
+

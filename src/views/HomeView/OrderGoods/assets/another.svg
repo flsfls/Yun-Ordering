@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>分类@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-28.000000, -142.000000)">
+        <g id="Group-14" transform="translate(29.000000, 143.000000)" fill="#FFF4F4" fill-rule="nonzero">
+            <path d="M4,4 L4,13 L13,13 L13,4 L4,4 Z M0,0 L17,0 L17,17 L0,17 L0,0 Z" id="Rectangle-13"></path>
+            <path d="M29.5,4 C27.0147186,4 25,6.01471863 25,8.5 C25,10.9852814 27.0147186,13 29.5,13 C31.9852814,13 34,10.9852814 34,8.5 C34,6.01471863 31.9852814,4 29.5,4 Z M29.5,0 C34.1944204,-8.62351033e-16 38,3.80557963 38,8.5 C38,13.1944204 34.1944204,17 29.5,17 C24.8055796,17 21,13.1944204 21,8.5 C21,3.80557963 24.8055796,8.62351033e-16 29.5,0 Z" id="Rectangle-13"></path>
+            <path d="M4,25 L4,34 L13,34 L13,25 L4,25 Z M0,21 L17,21 L17,38 L0,38 L0,21 Z" id="Rectangle-13"></path>
+            <path d="M25,25 L25,34 L34,34 L34,25 L25,25 Z M21,21 L38,21 L38,38 L21,38 L21,21 Z" id="Rectangle-13"></path>
+        </g>
+        <rect id="Rectangle-3" fill="#FF6050" opacity="0" x="28" y="142" width="40" height="40"></rect>
+    </g>
+</svg>
